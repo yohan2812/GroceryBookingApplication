@@ -1,0 +1,8 @@
+http://localhost:8080/api/v1/product?id=P001
+http://localhost:8080/api/v1/product?id=P002
+http://localhost:8080/api/v1/product?id=P003
+http://localhost:8080/api/v1/product?id=P004
+
+http://localhost:8080/api/v1/products
+
+java version 17
